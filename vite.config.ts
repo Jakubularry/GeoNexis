@@ -4,7 +4,7 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: './',
+  base: '/GeoNexis/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
